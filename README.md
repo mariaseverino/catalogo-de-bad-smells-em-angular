@@ -1,0 +1,1 @@
+# catalogo-de-bad-smells-em-angular
